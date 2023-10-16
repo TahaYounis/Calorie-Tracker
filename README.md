@@ -17,3 +17,13 @@ core module contains all shared logic or classes that we need in all of other mo
 - Kind of combined hybrid model, that use Layers and Features Modularization Strategy 
 - Modularization by feature with layer sub-modules, module for each feature like tracker feature and inside the module there is sub-modules for layers (presentation – domain – data)
 - Combines advantages of layer and feature-based modularization, like easily reuse a single feature, easily delegate work, clear separation of concerns, and keep modules a little bit smaller
+
+## Technologies and Libraries
+- Clean Architecture
+- Jetpack compose
+- Retrofit
+- Use cases
+- MVVM
+- Room
+- Animation
+- canva
