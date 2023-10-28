@@ -1,6 +1,3 @@
-## Calorie-Tracker Video
-https://github.com/TahaYounis/Calorie-Tracker/assets/82248336/5e631750-e4ec-49c2-872b-c0ffae2717b0
-
 
 ## Onboarding module 
 - The user enters his information such as gender, age, height, weight, and activity
@@ -28,3 +25,6 @@ core module contains all shared logic or classes that we need in all of other mo
 - Room
 - Animation
 - canva
+
+## Calorie-Tracker Video
+https://github.com/TahaYounis/Calorie-Tracker/assets/82248336/5e631750-e4ec-49c2-872b-c0ffae2717b0
