@@ -9,6 +9,7 @@
 - He can track the percentage of carbohydrates, proteins, and fats daily via the nutritional bar
 
 buildSrc module for build specific configuration.
+
 core module contains all shared logic or classes that we need in all of other modules.
 
 ## Layered-Feature modularization
